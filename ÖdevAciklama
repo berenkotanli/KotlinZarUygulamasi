@@ -13,4 +13,6 @@ Basıldığında tepki veren 2 tuş bulunacak
   * Zar adında bir class oluşturup bu uygulamayı çalıştırın
   * ZAR AT tuşuna basıldığında  alt kısımda zar atıldı yazan bir  penceresi açılacak (Toast yapısı)
   * Backgrounda istenen bir image konulacak Ekranı kaplayacak şekilde
+  
+ P.S. kullanacağınız zar ımagelerini dosyaya ekledim, bu dosyaları kullanabilirsiniz.
 
