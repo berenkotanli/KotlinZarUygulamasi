@@ -7,6 +7,7 @@ Basıldığında tepki veren 2 tuş bulunacak
   # 1. Tuşun üzerinde  ZAR AT yazılacak ve basıldığında rastgele 2 zar atacak (2 zar da aynı değeri göstermemeli) zarlar image olarak ekranda gösterilecek
   # 2. Tuş üzerinde  TEMİZLE  yazılacak ve basıldığında ekranı temizleyecek veya üstünde değer olmayan zarları gösterecek
   # Zar kullanımında when yapısı kullanılacak
+  # Ödev yüklerken github link kullanılacak 
   
  Optional eklentiler (Bunlar isteğe bağlı eklentilerdir sizi geliştirmekte çok yardımcı olacaktır araştırmanızda fayda)
 
